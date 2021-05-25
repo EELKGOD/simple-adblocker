@@ -1,7 +1,7 @@
 {
-    "name": "ICare AdBlocker",
+    "name": "AdBlocker",
     "version": "1.0",
-    "description": "Simple free AdBlocker",
+    "description": "Simple AdBlocker",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
