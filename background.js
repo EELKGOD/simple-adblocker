@@ -9,7 +9,7 @@ const linkFilters = [
 	"*://*.quantserve.com/*",
 	"*://*.scorecardresearch.com/*",
 	"*://*.zedo.com/*",
-    "*://*.ad.net/*",
+        "*://*.ad.net/*",
 	"*://*.planduringe.fun/*",
 ]
 
